@@ -1,0 +1,39 @@
+{
+    "data": {
+        "store"     : "Nails & Lashes By Tulip",
+        "slug"      : "Nails-lashes-by-tulip",
+        "phone"     : "(714) 504-0378",
+        "email"     : "rubydang1981@yahoo.com",
+        "address"   : "726 E Katella Ave Orange, California 92867",
+        "state"     : "California 92867",
+        "ward"      : "Orange",
+        "time_1"    : "Mon: 09:00 AM - 07:00 PM",
+        "time_2"    : "Tue: Closed",
+        "time_3"    : "Wed - Fri: 09:00 AM - 07:00 PM",
+        "time_4"    : "Sat: 09:00 AM - 06:00 PM",
+        "time_5"    : "Sun: 10:00 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://facebook.com/nail.lash.bytulip",
+        "instagram" :   "https://www.instagram.com/nailsnlashesbytulip",
+        "google"    :   "https://goo.gl/maps/ptc1PhmbNKwKd4Bo6",
+        "booking"   :   "https://www.lldtek.com/salon/appt/NDgwODJ8bmFpbG5sYXNoNzI2fENBXzA4MDE3fDVhOWVlNzJkMWIyM2I2MTZlNGVlNGNkMmI2ZTJmNDVj",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3315.135613842147!2d-117.84801254872606!3d33.80881323787048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcd7b0186cb677%3A0xde126b0a248737d0!2sNails%20%26%20Lashes%20By%20Tulip!5e0!3m2!1sen!2s!4v1668576350371!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#971319",
+        "primary_light"         :   "#EEECE3",
+        "primary_hover"         :   "#fdd4d1",
+        "secondary"             :   "#fff991",
+        "secondary_hover"       :   "#fff886",
+        "text_primary"          :   "#FFFFFF",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "img/",
+    "domain":       "http://127.0.0.1:5500/"
+}
